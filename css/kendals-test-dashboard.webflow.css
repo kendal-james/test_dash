@@ -943,6 +943,7 @@
 }
 
 .card-shadow.flex-vertical {
+  margin-bottom: 42px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -1874,19 +1875,6 @@
   grid-row-start: 1;
   -ms-grid-row-span: 1;
   grid-row-end: 2;
-}
-
-#w-node-5a824884484b-2903cfd9 {
-  -ms-grid-column: 1;
-  grid-column-start: 1;
-  -ms-grid-row: 1;
-  grid-row-start: 1;
-  -ms-grid-column-span: 2;
-  grid-column-end: 3;
-  -ms-grid-row-span: 1;
-  grid-row-end: 2;
-  -ms-grid-row-align: stretch;
-  align-self: stretch;
 }
 
 @media screen and (max-width: 767px) {
